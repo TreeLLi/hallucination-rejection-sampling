@@ -113,8 +113,6 @@ python -m factscore.factscorer submrg5b (replace run ID in WandB) --openai_key .
 
 If you find this framework beneficial for your work, please cite our work:  
 
-Code snippet
-
 ```
 @inproceedings{li2026building,
   title={Building Reliable Long-Form Generation via Hallucination Rejection Sampling},
